@@ -10,7 +10,7 @@ function agreefunc() {
 
 function employeeID() {
 
-    input_list[1].setAttribute('value', '126927');
+    input_list[1].setAttribute('value', 'XXXXXX');
 }
 
 function temperature() {
