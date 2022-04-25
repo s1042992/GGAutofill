@@ -3,7 +3,7 @@ function agreefunc() {
     document.getElementById("62391608_516129376_label").click();
 }
 function employeeID() {
-    document.getElementById("62391605").setAttribute('value', '126927');
+    document.getElementById("62391605").setAttribute('value', 'XXXXXX');
 }
 function temperature() {
     document.getElementById("62391610_516129378_label").click();
