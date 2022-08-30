@@ -1,43 +1,25 @@
+var result = [];
 javascript: 
 function agreefunc() {
-    document.getElementById("66405067_542650090_label").click();
+    document.getElementById("87960815_688357155").click();
 }
-
 function employeeID() {
-    document.getElementById("66405064").setAttribute('value', 'XXXXXX');
+    document.getElementById("87960813").setAttribute('value', 'XXXXX');
 }
-
-function temperature() {
-    document.getElementById("66405069_542650092").click();
-    document.getElementById("66405065").setAttribute('value', (Math.random() * (36.8 - 35.8) + 35.8).toFixed(1));
-}
-
 function symptoms() {
-    document.getElementById("66405075_542650132").click();
-    document.getElementById("66405075_542650132").checked = true;
+    document.getElementById("87960820_688357202_label").click();
 }
 
 function rapidtest() {
-    document.getElementById("66405078_542650167").click();
+    document.getElementById("87960821_688357189").click();
 }
-
-function footprint() {
-    document.getElementById("66405074_542650161").click();
-}
-
-function injection() {
-    document.getElementById("66405076_542650157").click();
-}
-
 function plunge() {
-    document.getElementById("66405066_542650082").click();
+	document.getElementById("87960814_688357154").click();
 }
-symptoms();
-agreefunc();
 employeeID();
-temperature();
+agreefunc();
+symptoms();
 rapidtest();
-footprint();
-injection();
 plunge();
 document.forms['surveyForm'].submit();
+completion(result);
