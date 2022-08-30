@@ -12,7 +12,7 @@ e.g.
 5. 開啟表單網址，點選此書籤即可完成~
 
 ## iPhone上:
-1. 取得捷徑：https://www.icloud.com/shortcuts/5accd9196f2f481fb1a0d170eb56e2e9
+1. 取得捷徑：https://reurl.cc/0Xd1gM
 2. 設定->捷徑->進階 ，把「允許執行工序指令」打開
 3. 使用方式是在safari打開表單網頁裡面 按分享![](https://i.imgur.com/MnAN1YJ.png)後 點選這個「自動GG體溫表單」的捷徑。
 4. 輸入工號，完成
