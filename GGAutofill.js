@@ -1,20 +1,20 @@
 var result = [];
 javascript: 
 function agreefunc() {
-    document.getElementById("87960815_688357155").click();
+    document.getElementById("97301341_751278109").click();
 }
 function employeeID() {
-    document.getElementById("87960813").setAttribute('value', 'XXXXX');
+    document.getElementById("97301339").setAttribute('value', 'XXXXXX');
 }
 function symptoms() {
-    document.getElementById("87960820_688357202_label").click();
+    document.getElementById("97301346_751278156").click();
 }
 
 function rapidtest() {
-    document.getElementById("87960821_688357189").click();
+    document.getElementById("97301347_751278143").click();
 }
 function plunge() {
-	document.getElementById("87960814_688357154").click();
+	document.getElementById("97301340_751278108").click();
 }
 employeeID();
 agreefunc();
